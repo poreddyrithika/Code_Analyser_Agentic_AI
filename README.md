@@ -303,9 +303,4 @@ If an error occurs, Streamlit displays:
 
 * The error message
 * The Python traceback
-
-This helps during development and debugging.
-
-## License
-
-This project is intended for educational and development purposes.
+r educational and development purposes.
