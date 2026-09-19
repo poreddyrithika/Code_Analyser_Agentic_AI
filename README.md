@@ -295,12 +295,13 @@ Uses Streamlit session state to maintain previous analyses during the current ap
 
 Allows users to view the context generated for their submitted code.
 
-## Error Handling
+### Error Handling
 
 The application uses exception handling around the analysis workflow.
 
 If an error occurs, Streamlit displays:
 
-* The error message
-* The Python traceback
-r educational and development purposes.
+The error message
+The Python traceback
+
+This helps during development and debugging.
