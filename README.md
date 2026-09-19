@@ -301,7 +301,8 @@ The application uses exception handling around the analysis workflow.
 
 If an error occurs, Streamlit displays:
 
-The error message, 
+The error message
+
 The Python traceback
 
 This helps during development and debugging.
