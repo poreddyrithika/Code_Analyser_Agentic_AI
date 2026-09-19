@@ -306,3 +306,8 @@ If an error occurs, Streamlit displays:
 * The Python traceback
 
 This helps during development and debugging.
+
+## Note
+
+This project is developed for **learning and educational purposes** to understand the practical implementation of AI agents, LangChain, LangGraph, Groq LLMs, and Streamlit.
+
